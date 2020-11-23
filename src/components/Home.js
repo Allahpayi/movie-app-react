@@ -21,13 +21,13 @@ export default class Home extends Component {
                                 <div className="col-md-12">
                                     <ul className="nav nav-tabs" id="myTab" role="tablist">
                                         <li className="nav-item">
-                                            <a className="nav-link active" id="movie-tab" data-toggle="tab" href="#movie" role="tab" aria-controls="movie" aria-selected="true"> All Movies</a>
+                                            <a className="nav-link active" id="movie-tab" data-toggle="tab" href="#movie" role="tab" aria-controls="movie" aria-selected="true">All=</a>
                                         </li>
                                         <li className="nav-item">
-                                            <a className="nav-link" id="weekTrend-tab" data-toggle="tab" href="#weekTrend" role="tab" aria-controls="weekTrend" aria-selected="false">Week Trending</a>
+                                            <a className="nav-link" id="weekTrend-tab" data-toggle="tab" href="#weekTrend" role="tab" aria-controls="weekTrend" aria-selected="false">Week Trend</a>
                                         </li>
                                         <li className="nav-item">
-                                            <a className="nav-link" id="dayTrend-tab" data-toggle="tab" href="#dayTrend" role="tab" aria-controls="dayTrend" aria-selected="false"> Day Trending</a>
+                                            <a className="nav-link" id="dayTrend-tab" data-toggle="tab" href="#dayTrend" role="tab" aria-controls="dayTrend" aria-selected="false"> Day Trend</a>
                                         </li>
                                     </ul>
                                 </div>
