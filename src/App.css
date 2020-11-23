@@ -31,7 +31,7 @@ a {
 }
 .nav-tabs .nav-link {
     border: none !important;
-    border-radius:.25rem
+    border-radius: 0rem;
 }
 .nowrap{
     display: flex !important;
